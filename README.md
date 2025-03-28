@@ -1,2 +1,0 @@
-# hackiethon
-widget for hackiethon!
